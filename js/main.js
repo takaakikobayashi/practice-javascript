@@ -23,4 +23,10 @@
       '一人' + payless + '円だと' + short + '円足りません' +
       '一人' + paymore + '円だと' + over+ '円余ります'
   }); 
+
+  var timer = document.getElementById('timer')
+  var min = document.getElementById('min')
+  var sec = document.getElementById('sec')
+  var reset = document.getElementById('reset')
+  var start = document.getElementById('start')
 })();
