@@ -81,4 +81,5 @@
     timeToCountDown = 0;
     updateTimer(timeToCountDown);
   });
+  
 });
